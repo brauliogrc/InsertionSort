@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1632275763 source:c:\users\bruno\onedrive - universidad de guadalajara\desktop\cuarto\algoritmia\220331615_garcia_braulio_israel_practica3\insertionsort\main.cpp
+	<iostream>
+	<locale.h>
+	<vector>
+	<string.h>
+
